@@ -1,4 +1,5 @@
-# Modern RNA-MuTect Pipeline (GATK4 + Mutect2)
+# Modified RNA-MuTect Pipeline (GATK4 + Mutect2)
+(extension of [modern-rna-mutect](https://github.com/seq2c/modern-rna-mutect) by [sec2c](https://github.com/seq2c)
 
 ## Introduction
 
